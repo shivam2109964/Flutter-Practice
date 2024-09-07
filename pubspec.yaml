@@ -11,6 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_bloc: ^8.1.6
+  flutter_custom_clippers: ^2.1.0
   google_fonts: ^6.2.1
 
 dev_dependencies:
@@ -27,3 +28,4 @@ flutter:
     - assets/icons/brave_normal.png
     - assets/icons/gpt.png
     - assets/icons/gpt_normal.png
+    - assets/profile.png

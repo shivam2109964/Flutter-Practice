@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:grokking_flutter/App%20Structure/Scaffold/Bottom%20Navigation/designOne.dart';
+import 'package:grokking_flutter/App%20Structure/Scaffold/Drawer/drawerDesignOne.dart';
 import 'package:grokking_flutter/Bloc/Bottom%20Navi%20Bloc/bottom_navi_bloc_bloc.dart';
 import 'package:grokking_flutter/Bloc/Design%20One%20Bloc/design_one_bloc.dart';
 import 'package:grokking_flutter/Bloc/Design%20Two%20Bloc/design_two_bloc_bloc.dart';
@@ -35,7 +35,7 @@ class MainApp extends StatelessWidget {
             unselectedIconTheme: IconThemeData(color: Colors.black),
           ),
         ),
-        home: DesignOne(),
+        home: const DrawerDesignOne(),
       ),
     );
   }
