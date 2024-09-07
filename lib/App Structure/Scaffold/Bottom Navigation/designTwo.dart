@@ -77,6 +77,7 @@ class DesignTwo extends StatelessWidget {
           return BottomAppBar(
             shape: const CircularNotchedRectangle(),
             notchMargin: 10,
+            color: Colors.black12,
             child: Row(
               mainAxisAlignment: MainAxisAlignment.spaceAround,
               children: [
