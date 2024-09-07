@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class ProfileOpen extends StatelessWidget {
-  const ProfileOpen({Key? key}) : super(key: key);
+  const ProfileOpen({super.key});
 
   @override
   Widget build(BuildContext context) {

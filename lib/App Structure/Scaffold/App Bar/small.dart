@@ -3,7 +3,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:grokking_flutter/Temp/Profile.dart';
 
 class Medium extends StatelessWidget {
-  const Medium({Key? key}) : super(key: key);
+  const Medium({super.key});
 
   @override
   Widget build(BuildContext context) {

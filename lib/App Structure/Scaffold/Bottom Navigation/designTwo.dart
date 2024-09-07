@@ -4,7 +4,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:grokking_flutter/Bloc/Design%20Two%20Bloc/design_two_bloc_bloc.dart';
 
 class DesignTwo extends StatelessWidget {
-  const DesignTwo({Key? key}) : super(key: key);
+  const DesignTwo({super.key});
 
   @override
   Widget build(BuildContext context) {

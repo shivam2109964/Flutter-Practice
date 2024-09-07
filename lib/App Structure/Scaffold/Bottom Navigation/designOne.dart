@@ -3,13 +3,13 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:grokking_flutter/Bloc/Design%20One%20Bloc/design_one_bloc.dart';
 
 class DesignOne extends StatelessWidget {
-  const DesignOne({Key? key}) : super(key: key);
+  const DesignOne({super.key});
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: PreferredSize(
-        preferredSize: Size.fromHeight(30),
+        preferredSize: const Size.fromHeight(30),
         child: AppBar(),
       ),
       body: BlocBuilder<DesignOneBloc, int>(

@@ -4,7 +4,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:grokking_flutter/Temp/Profile.dart';
 
 class Large extends StatelessWidget {
-  const Large({Key? key}) : super(key: key);
+  const Large({super.key});
 
   @override
   Widget build(BuildContext context) {

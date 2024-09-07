@@ -3,7 +3,7 @@ import 'package:flutter_custom_clippers/flutter_custom_clippers.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class DrawerDesignOne extends StatelessWidget {
-  const DrawerDesignOne({Key? key}) : super(key: key);
+  const DrawerDesignOne({super.key});
 
   @override
   Widget build(BuildContext context) {

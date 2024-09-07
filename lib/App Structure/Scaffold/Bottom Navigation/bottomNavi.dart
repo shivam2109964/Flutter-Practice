@@ -3,7 +3,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:grokking_flutter/Bloc/Bottom%20Navi%20Bloc/bottom_navi_bloc_bloc.dart';
 
 class BottomNaviWidget extends StatelessWidget {
-  const BottomNaviWidget({Key? key}) : super(key: key);
+  const BottomNaviWidget({super.key});
 
   @override
   Widget build(BuildContext context) {
