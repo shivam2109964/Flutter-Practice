@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:grokking_flutter/Bloc/Design%20Two%20Bloc/design_two_bloc_bloc.dart';
+import 'package:grokking_flutter/Temp/Bloc/Design%20Two%20Bloc/design_two_bloc_bloc.dart';
 
 class DesignTwo extends StatelessWidget {
   const DesignTwo({super.key});

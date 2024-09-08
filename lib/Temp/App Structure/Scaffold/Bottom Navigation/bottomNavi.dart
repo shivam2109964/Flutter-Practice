@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:grokking_flutter/Bloc/Bottom%20Navi%20Bloc/bottom_navi_bloc_bloc.dart';
+import 'package:grokking_flutter/Temp/Bloc/Bottom%20Navi%20Bloc/bottom_navi_bloc_bloc.dart';
 
 class BottomNaviWidget extends StatelessWidget {
   const BottomNaviWidget({super.key});

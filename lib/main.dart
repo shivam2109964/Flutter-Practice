@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:grokking_flutter/App%20Structure/TabBar/primary&Secondary.dart';
-import 'package:grokking_flutter/App%20Structure/TabBar/tabbar.dart';
-import 'package:grokking_flutter/Bloc/Bottom%20Navi%20Bloc/bottom_navi_bloc_bloc.dart';
-import 'package:grokking_flutter/Bloc/Design%20One%20Bloc/design_one_bloc.dart';
-import 'package:grokking_flutter/Bloc/Design%20Two%20Bloc/design_two_bloc_bloc.dart';
+import 'package:grokking_flutter/Temp/App%20Structure/TabBar/primary&Secondary.dart';
+import 'package:grokking_flutter/Temp/Bloc/Bottom%20Navi%20Bloc/bottom_navi_bloc_bloc.dart';
+import 'package:grokking_flutter/Temp/Bloc/Design%20One%20Bloc/design_one_bloc.dart';
+import 'package:grokking_flutter/Temp/Bloc/Design%20Two%20Bloc/design_two_bloc_bloc.dart';
 
 void main() {
   runApp(const MainApp());

@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class TabBarWidget extends StatefulWidget {
-  const TabBarWidget({Key? key}) : super(key: key);
+  const TabBarWidget({super.key});
 
   @override
   State<TabBarWidget> createState() => _TabBarWidgetState();

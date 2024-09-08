@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:grokking_flutter/Bloc/Design%20One%20Bloc/design_one_bloc.dart';
+import 'package:grokking_flutter/Temp/Bloc/Design%20One%20Bloc/design_one_bloc.dart';
 
 class DesignOne extends StatelessWidget {
   const DesignOne({super.key});

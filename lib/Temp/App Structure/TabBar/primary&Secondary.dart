@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class TabBarSecondary extends StatelessWidget {
-  const TabBarSecondary({Key? key}) : super(key: key);
+  const TabBarSecondary({super.key});
 
   @override
   Widget build(BuildContext context) {
