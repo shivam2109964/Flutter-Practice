@@ -30,5 +30,7 @@ flutter:
     - assets/icons/gpt.png
     - assets/icons/gpt_normal.png
     - assets/icons/play_normal.png
+    - assets/icons/myic.png
+    - assets/icons/myic1.png
     - assets/profile.png
     - assets/sliverPro.jpg
