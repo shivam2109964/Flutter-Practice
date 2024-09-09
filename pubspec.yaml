@@ -7,6 +7,7 @@ environment:
   sdk: ^3.5.0
 
 dependencies:
+  badges: ^3.1.2
   bloc: ^8.1.4
   flutter:
     sdk: flutter
@@ -28,5 +29,6 @@ flutter:
     - assets/icons/brave_normal.png
     - assets/icons/gpt.png
     - assets/icons/gpt_normal.png
+    - assets/icons/play_normal.png
     - assets/profile.png
     - assets/sliverPro.jpg
