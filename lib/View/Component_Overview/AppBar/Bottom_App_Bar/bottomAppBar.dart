@@ -13,8 +13,10 @@ class _BottomAppBarWidgetState extends State<BottomAppBarWidget> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: PreferredSize(
-        preferredSize: Size.fromHeight(50),
-        child: AppBarWidget(appTitle: "Bottom App Bar",),
+        preferredSize: const Size.fromHeight(50),
+        child: AppBarWidget(
+          appTitle: "Bottom App Bar",
+        ),
       ),
     );
   }
