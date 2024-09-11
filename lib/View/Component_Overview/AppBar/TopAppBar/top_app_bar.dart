@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:grokking_flutter/View/Universal_Widget/AppBar/appBarWidget.dart';
 
 class TopAppbar extends StatelessWidget {
-  const TopAppbar({Key? key}) : super(key: key);
+  const TopAppbar({super.key});
 
   @override
   Widget build(BuildContext context) {
