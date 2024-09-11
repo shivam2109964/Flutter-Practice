@@ -40,3 +40,6 @@ flutter:
     - assets/text/text.png
     - assets/bottomAppBar/appbar.png
     - assets/bottomAppBar/scaffold.png
+    - assets/icons/play.png
+    - assets/icons/password.png
+    - assets/icons/password_normal.png
